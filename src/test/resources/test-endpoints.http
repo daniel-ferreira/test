@@ -1,0 +1,7 @@
+### Teste de criação de pedido
+POST http://localhost:8080/api/pedidos
+Content-Type: application/json
+
+{
+  "descricao": "Pedido de teste"
+}
